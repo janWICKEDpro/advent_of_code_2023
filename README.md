@@ -1,2 +1,3 @@
 # advent_of_code_2023
-Solutions to advent of code
+Solutions to advent of code in javascript
+
